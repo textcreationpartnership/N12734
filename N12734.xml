@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <body>
          <div type="address">
-            <pb facs="tcp:016099_0000_0F9B8E3DEDFDA6B0"/>
-            <pb facs="tcp:016099_0001_0F9B8E3F53156428"/>
+            <pb facs="unknown:016099_0000_0F9B8E3DEDFDA6B0"/>
+            <pb facs="unknown:016099_0001_0F9B8E3F53156428"/>
             <head>AN ADDRESS of the CONGRESS To the INHABITANTS of the UNITED STATES OF AMERICA.</head>
             <opener>
                <salute>FRIENDS AND COUNTRYMEN,</salute>
